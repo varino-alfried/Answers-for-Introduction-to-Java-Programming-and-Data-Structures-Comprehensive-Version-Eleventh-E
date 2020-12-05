@@ -1,6 +1,9 @@
 package ch1;
-
-public class q2
+/**
+ *
+ * @author varino
+ */
+public class q1_9
 {
     public static void main(String[] args)
     {
